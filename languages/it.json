@@ -1,0 +1,46 @@
+{
+	"meta": {
+		"desc-gallery": "Una selezione di lavori nella categoria '4K Executable Graphics' dalla demoscene.",
+		"desc-meteoriks": "Lavori nominati e vincitori del premio Meteorik 'Best Executable Graphics'.",
+		"desc-about": "Cos'è un 'Executable Graphics'?"
+	},
+	"global": {
+		"toggle-theme": "Cambia tema",
+		"toggle-lang": "Lingua"
+	},
+	"nav": {
+		"gallery": "Galleria",
+		"meteoriks": "Meteoriks",
+		"about": "Informazioni"
+	},
+	"artwork": {
+		"platform": "Eseguibile {{platform}}"
+	},
+	"badges": {
+		"meteorik-nominee": "Nominato Meteoriks {{meteorik-year}}",
+		"meteorik-winner": "Vincitore Meteoriks {{meteorik-year}}"
+	},
+	"meteoriks": {
+		"what-are-meteoriks": "Cosa sono i Meteoriks?",
+		"what-are-meteoriks-p1": "<a href=\"{{external-url-meteoriks}}\">I Meteoriks</a> sono dei premi riservati alla migliore produczione che la demoscene può offrire, e sono presentati annuallmente al Revision demoparty nel weekend pasquale.",
+		"what-are-meteoriks-p2": "Data la crescita del settore 'Executable Graphics', i Meteoriks hanno introdotto la categoria 'Best Executable Graphics' nel 2021. Puoi vedere i lavori nominati e vincenti qui sotto.",
+		"juror-application-open": "Le iscrizioni per fa parte della giuria dei Meteoriks {{current-year}} sono <a href=\"{{external-url-meteoriks-jurors}}\">aperte</a>!",
+		"public-nominations-open": "Le nomine per i Meteoriks {{current-year}} da parte del pubblico sono aperte - puoi inviare i lavori che la giuria valuterà tramite <a href=\"{{external-url-pouet}}\">Pouët</a> e <a href=\"{{external-url-demozoo}}\">Demozoo</a>."
+	},
+	"about": {
+		"what-is-exegfx": "Cos'è un 'Executable Graphics'?",
+		"what-is-exegfx-p1": "Nella sua forma più pura, un 'Executable Graphics' è arte visiva mediata dal software. Ogni opera visiva è creata non come un file di immagine, bensì come un programma che, quando eseguito, disegna l'opera sul momento.",
+		"what-is-exegfx-p2": "Menter i popolari formati demo e intro della demoscene producono animazioni e musica in realtime, un 'Executable Graphics' produce una singola immagine statica, usando più tempo per disegnala. Questo permette di usare tecniche di rendering più computazionalmente onerose, che non possono essere utilizzate in realtime.",
+		"what-is-exegfx-p3": "Durante l'ultimo decennio, i demoparties hanno reso famoso il formato '4K Executable Graphics'. Attenzione, '4K' si riferisce alla dimensione del file, non alla risoluzione - ogni lavoro che partecipa a queste competizioni non può superare 4 kilobyte (4096 byte).",
+		"what-is-exe-dot-gfx": "Cos'è executable.graphics?",
+		"what-is-exe-dot-gfx-p1": "Questo sito web è una galleria di lavori prodotti da vari artisti della scena 'Executable Graphics'. Ogni pezzo della collezione è disegnato da un eseguibile di dimensione massima di 4096 byte.",
+		"what-is-exe-dot-gfx-p2": "Questa collezione va apprezzata come una gallera d'arte - passando del tempo con ogni pezzo, considerando il lavoro (sia artistico che tecnico) che sta dietro ad ognuno.",
+		"credit-curator": "Questa collezione è curata da yx.",
+		"credit-translators": "Localizzazione di {{translators}}."
+	},
+	"footer": {
+		"copyright-website": "Sito web © yx.",
+		"copyright-artworks": "Tutto il materiale © dei rispettivi autori.",
+		"copyright-pouet": "Pouët graphics © mandarine."
+	}
+}

@@ -36,5 +36,13 @@
 			"bitnenfer",
 			"vekid"
 		]
+	},
+	{
+		"id": "it",
+		"name": "Italiano",
+		"root": "/it",
+		"translators": [
+			"loghorn"
+		]
 	}
 ]
